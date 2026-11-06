@@ -8,6 +8,18 @@
     },
     "keywords": [],
     "author": "Thales Gomes",
-    "license":"ISC",
-    "type": "module"
+    "license": "ISC",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Thalesgomes7/AUTH-JWT.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Thalesgomes7/AUTH-JWT/issues"
+    },
+    "homepage": "https://github.com/Thalesgomes7/AUTH-JWT#readme",
+    "dependencies": {
+        "express": "^5.3.0",
+        "jsonwebtoken": "^9.0.3"
+    }
 }
